@@ -2,7 +2,7 @@
   <artifact type="jar" name="Project3:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Project3_jar</output-path>
     <root id="archive" name="Project3.jar">
-      <element id="module-output" name="Project3" />
+      <element id="module-output" name="Project3 GUI" />
     </root>
   </artifact>
 </component>
